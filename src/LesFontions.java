@@ -61,17 +61,20 @@ public class LesFontions {
 
     }
 
-//    // exercice 8
-//    public int exercice8 (int Par1, int Par2, int Par3){
-//        return (Par1 + Par2 + Par3);
-//
-//    }
-//    public int exercice8 (int Par1, int Par2){
-//        return exercice8( int Par1, int Par, 5);
-//    }
-//    public int exercice8 (int Par1){
-//        return exercice8( int Par1, 3);
-//    }
+    // exercice 8
+    static int exercice8 (int Par1, int Par2, int Par3){
+        return (Par1 + Par2 + Par3);
+
+    }
+    static int exercice8 (int Par1, int Par2){
+        return exercice8( Par1, Par2, 5);
+    }
+    static int exercice8 (int Par1){
+        return exercice8( Par1, 3);
+    }
+    static int exercice8 (){
+        return exercice8( 2);
+    }
 
 
 
@@ -79,12 +82,12 @@ public class LesFontions {
     public static void main(String[] args) {
 
         System.out.println(exercice1());
-        System.out.println(exercice2("JAVA CUP"));
-        System.out.println(exercice3("My name is ", "Yassine MAKHLOUK"));
+        System.out.println(exercice2("CUP OF JAVA"));
+        System.out.println(exercice3("My name is ", "Ayoub ROUIHA"));
         System.out.println(exercice4(7, 7));
-        System.out.println(exercice5("My age is", 25));
-        System.out.println(exercice6("MAKHLOUK", "Yassine", 25));
+        System.out.println(exercice5("My age is", 26));
+        System.out.println(exercice6("ROUIHA", "Ayoub", 26));
         System.out.println(exercice7("Homme", 18));
-        System.out.println(exercice8());
+        System.out.println(exercice8(3,8));
     }
 }
