@@ -8,6 +8,6 @@ public class Atelier1 {
         System.out.println("Enter Name");
         userName = Name.nextLine();
 
-        System.out.println("Bonjour " + userName);
+        System.out.println("Bonjour " + userName + "!");
     }
 }

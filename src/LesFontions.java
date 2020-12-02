@@ -82,11 +82,11 @@ public class LesFontions {
     public static void main(String[] args) {
 
         System.out.println(exercice1());
-        System.out.println(exercice2("CUP OF JAVA"));
-        System.out.println(exercice3("My name is ", "Ayoub ROUIHA"));
+        System.out.println(exercice2("JAVA CUP"));
+        System.out.println(exercice3("My name is ", "Yassine MAKHLOUK"));
         System.out.println(exercice4(7, 7));
-        System.out.println(exercice5("My age is", 26));
-        System.out.println(exercice6("ROUIHA", "Ayoub", 26));
+        System.out.println(exercice5("My age is", 25));
+        System.out.println(exercice6("MAKHLOUK", "Yassine", 25));
         System.out.println(exercice7("Homme", 18));
         System.out.println(exercice8(3,8));
     }
