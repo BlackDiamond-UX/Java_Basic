@@ -25,11 +25,10 @@ public class CalculTVA {
             System.out.println("Combien de remise");
             Remise = remise.nextFloat();
 
-            double Prix = PrixHt + Remise;
-            double TVA = (Prix * 0.2);
+            double PrixTTC = PrixHt + PrixHt * 0.2;
+            double prixRemise = PrixTTC - PrixTTC* Remise;
 
-            double TTC = Prix + TVA;
-            System.out.println("TTC = " + TTC + "DH");
+            System.out.println("TTC = " + prixRemise + "DH");
         }
         if (AccordRemise.equalsIgnoreCase("Non") || AccordRemise.equalsIgnoreCase("No")){
             double Prix = PrixHt;

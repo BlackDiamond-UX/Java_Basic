@@ -7,7 +7,7 @@ public class LesBoucles1 {
             i++;
         }
 
-
+        System.out.println("===================================================================");
         // do while boucle
         int y = 0;
         do {
