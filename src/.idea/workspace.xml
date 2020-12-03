@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96279c9e-284b-4105-b81b-40d393af4664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/CalculTVA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/CalculTVA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles4_5_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/LesBoucles4_5_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/LesCollectionsHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/LesCollectionsHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Brief1/LesFontions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Brief1/LesFontions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/test/Boucles4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/test/Boucles5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/test/Boucles6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/test/Boucles7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/test/gestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesBoucles1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesBoucles2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesBoucles3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesBoucles4_5_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesCollectionsHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LesCollectionsHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LesFontions.java" beforeDir="false" afterPath="$PROJECT_DIR$/LesFontions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Basic/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Basic/LesCollectionsHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Basic/LesCollectionsHashSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Basic/LesFontions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Basic/LesFontions.class" afterDir="false" />
-    </list>
+    <list default="true" id="96279c9e-284b-4105-b81b-40d393af4664" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606954392232</updated>
-      <workItem from="1606954393988" duration="307000" />
+      <workItem from="1606954393988" duration="748000" />
     </task>
     <servers />
   </component>
