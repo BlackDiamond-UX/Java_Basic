@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96279c9e-284b-4105-b81b-40d393af4664" name="Default Changelist" comment="" />
+    <list default="true" id="96279c9e-284b-4105-b81b-40d393af4664" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Basic/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TanteFortunee">
+  <component name="RunManager" selected="Application.LesCollectionHashMaps">
     <configuration name="LesCollectionHashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LesCollectionHashMaps" />
       <module name="Java_Basic" />
@@ -52,23 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LesCollectionHashMaps" />
         <item itemvalue="Application.TanteFortunee" />
         <item itemvalue="Application.LesCollectionsHashSet" />
         <item itemvalue="Application.LesCollections" />
-        <item itemvalue="Application.LesCollectionHashMaps" />
       </list>
     </recent_temporary>
   </component>
@@ -81,6 +73,9 @@
       <option name="presentableId" value="Default" />
       <updated>1606954392232</updated>
       <workItem from="1606954393988" duration="748000" />
+      <workItem from="1607074729603" duration="1294000" />
+      <workItem from="1607079536249" duration="327000" />
+      <workItem from="1607092774129" duration="810000" />
     </task>
     <servers />
   </component>
@@ -97,5 +92,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
